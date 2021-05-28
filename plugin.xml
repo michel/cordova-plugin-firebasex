@@ -139,18 +139,18 @@
 				<source url="https://cdn.cocoapods.org/"/>
 			</config>
 			<pods use-frameworks="true">
-				<pod name="Firebase/Core" spec="7.8.1"/>
-				<pod name="Firebase/Auth" spec="7.8.1"/>
-				<pod name="Firebase/Messaging" spec="7.8.1"/>
-				<pod name="Firebase/Performance" spec="7.8.1"/>
-				<pod name="Firebase/RemoteConfig" spec="7.8.1"/>
-				<pod name="Firebase/InAppMessaging" spec="7.8.1"/>
-				<pod name="Firebase/Firestore" spec="7.8.1" />
-				<pod name="Firebase/Crashlytics" spec="7.8.1"/>
-				<pod name="Firebase/Functions" spec="7.8.1"/>
-				<pod name="Firebase/Installations" spec="7.8.1"/>
+				<pod name="Firebase/Core" spec="7.0.0"/>
+				<pod name="Firebase/Auth" spec="7.0.0"/>
+				<pod name="Firebase/Messaging" spec="7.0.0"/>
+				<pod name="Firebase/Performance" spec="7.0.0"/>
+				<pod name="Firebase/RemoteConfig" spec="7.0.0"/>
+				<pod name="Firebase/InAppMessaging" spec="7.0.0"/>
+				<pod name="Firebase/Firestore" spec="7.0.0" />
+				<pod name="Firebase/Crashlytics" spec="7.0.0"/>
+				<pod name="Firebase/Functions" spec="7.0.0"/>
+				<pod name="Firebase/Installations" spec="7.0.0"/>
 				<pod name="GoogleSignIn" spec="5.0.2"/>
-				<pod name="GoogleTagManager" spec="7.2.0"/>
+				<pod name="GoogleTagManager" spec="7.0.0"/>
 			</pods>
 		</podspec>
 
